@@ -1,1 +1,1 @@
-# adc2223_exemplo
+# Avaliação Individual de ADC
